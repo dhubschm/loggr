@@ -533,7 +533,7 @@ export default function App() {
 const styles = {
   page: {
     minHeight: "100vh",
-    background: "#0D2818",
+    background: "#0d2428",
     color: "#E8E3D3",
     fontFamily: "'JetBrains Mono', monospace",
     padding: "20px",

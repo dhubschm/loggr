@@ -1,7 +1,6 @@
 # loggr
 
-A PCB-themed job application tracker + daily task checklist, built for an
-internship/job search workflow.
+A rudimentary internship and networking tracker designed for personal use!
 
 ## Features
 
